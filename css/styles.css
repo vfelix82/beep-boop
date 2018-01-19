@@ -6,6 +6,17 @@ src: url("fonts\JoeMax.otf") format("truetype");
 
 h1 {
   text-align: center;
-  font-family: "Joe Max";
+  font-family: fantasy;
 
+}
+.panel > .panel-body {
+  padding-top: 1cm;
+}
+
+.container {
+  margin-top: 1cm;
+}
+
+.result {
+  display: none;
 }
