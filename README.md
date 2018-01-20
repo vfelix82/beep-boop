@@ -10,7 +10,7 @@ _Html site that converts number 0 with beep, number 1 with boop, and number 3 wi
 
 ## Setup/Installation Requirements
 
-* Direct link 
+* Direct link https://vfelix82.github.io/beep-boop/
 * _Clone from github_
 * _Open with html_
 
