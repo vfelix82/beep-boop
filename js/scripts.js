@@ -4,4 +4,9 @@ $(document).ready(function(){
   });
 });
 
-var answer1 = toString($("input#userTextInput").val());
+var answer1 = parseInt($("input#userTextInput").val());
+var bbs =[3, 1, 0]
+
+for (var i=0; i < bbs; i++) {
+  
+}
