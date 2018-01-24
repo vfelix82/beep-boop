@@ -1,30 +1,38 @@
-# _Beep-Boop_
+# Beep-Boop
 
-#### _Beep-Boop, 1.0 1/19/2018_
+#### Beep-Boop, 1.0 1/19/2018
 
-#### By _**Victor Felix**_
+#### By **Victor Felix**
 
 ## Description
 
-_Html site that converts number 0 with beep, number 1 with boop, and number 3 with error_
+##Specifications
+
+* Program replaces 0 with "Beep!."
+  * Example Input: 0
+  * Example Output: ["Beep!""]
+* Pragram replaces 1 with "Boop!."
+  * Example Input: 1
+  * Example Output: ["Boop!."]
+* Progam replaces numbers divisible by 3 with "I'm sorry, Dave. I'm afraid I can't do that."
+  * Example input: 2
+  * Example output: "I'm sorry, Dave. I'm afraid I can't do that."
+
 
 ## Setup/Installation Requirements
 
-* Direct link 
-* _Clone from github_
-* _Open with html_
-
+* Direct link https://vfelix82.github.io/beep-boop/
+* Clone from github
+* Open with html
 ## Known Bugs
-
-_JS is not functioning_
 
 ## Support and contact details
 
-_If you would like to get a hold me, please email me at vfelix82@gmail.com_
+If you would like to get a hold me, please email me at vfelix82@gmail.com
 
-_Please check https://github.com/vfelix82?tab=repositories to see more of my work._
+Please check https://github.com/vfelix82?tab=repositories to see more of my work.
 
-_https://github.com/_
+https://github.com/
 
 ## Technologies Used
 
