@@ -6,7 +6,7 @@
 
 ## Description
 
-##Specifications
+## Specifications
 
 * Program replaces 0 with "Beep!."
   * Example Input: 0
@@ -23,7 +23,6 @@
 * Direct link https://vfelix82.github.io/beep-boop/
 * _Clone from github_
 * _Open with html_
->>>>>>> 5a39a22c44897bb19883c21fa444db4e590e7ac1
 
 ## Setup/Installation Requirements
 
