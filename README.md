@@ -9,20 +9,19 @@
 ## Specifications
 
 * Program replaces 0 with "Beep!."
-  * Example Input: 0
-  * Example Output: ["Beep!""]
+  * **Example Input: 0**
+  * **Example Output: ["Beep!""]**
 * Pragram replaces 1 with "Boop!."
-  * Example Input: 1
-  * Example Output: ["Boop!."]
+  * **Example Input: 1**
+  * **Example Output: ["Boop!."]**
 * Progam replaces numbers divisible by 3 with "I'm sorry, Dave. I'm afraid I can't do that."
-  * Example input: 2
-  * Example output: "I'm sorry, Dave. I'm afraid I can't do that."
+  * **Example input: 2**
+  * **Example output: "I'm sorry, Dave. I'm afraid I can't do that."**
 
-<<<<<<< HEAD
 =======
 * Direct link https://vfelix82.github.io/beep-boop/
-* _Clone from github_
-* _Open with html_
+* Clone from github
+* Open with html
 
 ## Setup/Installation Requirements
 
