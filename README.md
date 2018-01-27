@@ -18,7 +18,6 @@
   * **Example input: 2**
   * **Example output: "I'm sorry, Dave. I'm afraid I can't do that."**
 
-=======
 * Direct link https://vfelix82.github.io/beep-boop/
 * Clone from github
 * Open with html
@@ -40,13 +39,16 @@ https://github.com/
 
 ## Technologies Used
 
-_Html_
-_CSS_
-_BOOTSTRAP_
-_Java_
+Html
+
+CSS
+
+BOOTSTRAP
+
+Java
 
 ### License
 
-_MIT lincense_
+MIT lincense
 
-Copyright (c) 2016 **_Victor Felix_**
+Copyright (c) 2016 **Victor Felix**
